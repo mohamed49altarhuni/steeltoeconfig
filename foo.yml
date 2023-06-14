@@ -1,3 +1,7 @@
-foo: Foo textv changed
-democonfigclient:
-message: ello connfig server
+ BusOptions: {
+    "RabbitMqAddress": "localhost",
+    "RabbitMqVirtualHost": "Test",
+    "RabbitMqUserName": "guest",
+    "RabbitMqPassword": "guest",
+    "RabbitMqHostName": " PRO-34.MITT.LY"
+  }

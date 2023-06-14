@@ -1,5 +1,5 @@
  BusOptions: 
-  - 
+  
     RabbitMqAddress: "localhost",
     RabbitMqVirtualHost: "Test",
     RabbitMqUserName: "guest",

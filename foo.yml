@@ -1,3 +1,7 @@
-foo : bar
-pleh : help
-stuff : {'foo': 'bar', 'bar': 'foo'}
+AAPL:
+  - :
+    shares: -75.088
+    date: 11/27/2015
+  - :
+    shares: 75.088
+    date: 11/26/2015

@@ -1,7 +1,8 @@
-AAPL:
-  - :
-    shares: -75.088
-    date: 11/27/2015
-  - :
-    shares: 75.088
-    date: 11/26/2015
+object:
+	key: value
+  array:
+    - null_value:
+    - boolean: true
+    - integer: 1
+    - alias: &example aliases are like variables
+    - alias: *example

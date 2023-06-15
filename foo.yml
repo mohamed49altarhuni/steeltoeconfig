@@ -1,8 +1,1 @@
-object:
-	key: value
-  array:
-    - null_value:
-    - boolean: true
-    - integer: 1
-    - alias: &example aliases are like variables
-    - alias: *example
+object: tesrt
